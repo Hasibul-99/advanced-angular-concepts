@@ -1,0 +1,14 @@
+.container {
+    .text {
+        border: 1px solid #ccc;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .active {
+        color: red;
+    }
+    .inactive {
+        color: seagreen;
+    }
+}
